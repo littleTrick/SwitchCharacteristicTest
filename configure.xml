@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configure>
+  <login>
+    <user_name>sojo</user_name>
+    <password>300444</password>
+  </login>
+  <folder_path>
+    <default_path>/home/liyan-pro/qt-pro/SwitchCharacteristicTester</default_path>
+  </folder_path>	
+  <serial_attribute>
+    <serial_port>/dev/ttyS1</serial_port>
+  </serial_attribute>
+  <life_test>
+    <test_time>1000</test_time>
+    <interval_time>1</interval_time>
+  </life_test>
+  <sensor_check>
+    <current_sensor_coefficient>1</current_sensor_coefficient>
+    <voltage_sensor_coefficient>1</voltage_sensor_coefficient>
+    <acceleration_sensor_coefficient>1</acceleration_sensor_coefficient>
+  </sensor_check>
+  <data_collection>
+    <sampling_frequency>50</sampling_frequency>
+    <sampling_cycle>10</sampling_cycle>
+    <fracture_before>100</fracture_before>
+    <fracture_after>100</fracture_after>
+  </data_collection>
+</configure>
+

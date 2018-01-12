@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background/login.jpg</file>
+        <file>background/SOJOlogo.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix_icon">
+        <file>icon/exit.png</file>
+        <file>icon/new.png</file>
+        <file>icon/print.png</file>
+        <file>icon/save.png</file>
+        <file>icon/save-as.png</file>
+        <file>icon/setup.png</file>
+        <file>icon/Open Folder.png</file>
+        <file>icon/about.png</file>
+        <file>icon/serial-port .png</file>
+        <file>icon/file.png</file>
+        <file>icon/folder.png</file>
+        <file>icon/Lifetime.png</file>
+        <file>icon/sensor.png</file>
+        <file>icon/list_switch.png</file>
+    </qresource>
+    <qresource prefix="/new/configure">
+        <file>configure.xml</file>
+    </qresource>
+</RCC>
